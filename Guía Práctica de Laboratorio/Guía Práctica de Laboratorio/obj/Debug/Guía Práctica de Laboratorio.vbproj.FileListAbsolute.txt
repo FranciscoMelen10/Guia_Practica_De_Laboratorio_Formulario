@@ -1,0 +1,82 @@
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Guía Práctica de Laboratorio.exe.config
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Guía Práctica de Laboratorio.exe
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Guía Práctica de Laboratorio.pdb
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Guía Práctica de Laboratorio.xml
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\EnvDTE.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\stdole.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.vbproj.AssemblyReference.cache
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía_Práctica_de_Laboratorio.Form1.resources
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía_Práctica_de_Laboratorio.Form2.resources
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía_Práctica_de_Laboratorio.Resources.resources
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.vbproj.GenerateResource.cache
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\RdlCompile.cache
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\RdlCompile.compiled
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.vbproj.CoreCompileInputs.cache
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.vbproj.CopyComplete
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.exe
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.xml
+C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.pdb
