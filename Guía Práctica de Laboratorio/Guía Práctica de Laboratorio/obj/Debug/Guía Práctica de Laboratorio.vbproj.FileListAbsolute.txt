@@ -80,3 +80,83 @@ C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laborat
 C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.exe
 C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.xml
 C:\Users\Isi33\Desktop\Guía_Práctica_de_Laboratorio\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.pdb
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\x86\SqlServerSpatial160.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\x64\SqlServerSpatial160.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Guía Práctica de Laboratorio.exe.config
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Guía Práctica de Laboratorio.exe
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Guía Práctica de Laboratorio.pdb
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Guía Práctica de Laboratorio.xml
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\EnvDTE.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\stdole.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\Microsoft.MSXML.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.vbprojAssemblyReference.cache
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía_Práctica_de_Laboratorio.Form1.resources
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía_Práctica_de_Laboratorio.Form2.resources
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía_Práctica_de_Laboratorio.Resources.resources
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.vbproj.GenerateResource.cache
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.vbproj.CoreCompileInputs.cache
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.vbproj.CopyComplete
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.exe
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.xml
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.pdb

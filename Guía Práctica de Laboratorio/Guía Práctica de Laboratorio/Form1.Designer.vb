@@ -31,11 +31,16 @@ Partial Class Form1
         Me.CodigozonaDataGridViewTextBoxColumn = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.SalarioDataGridViewTextBoxColumn = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.ComisionDataGridViewTextBoxColumn = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.AgentesVendedoresBindingSource = New System.Windows.Forms.BindingSource(Me.components)
+        Me.Empresa_ABCDataSet1 = New Guía_Práctica_de_Laboratorio.Empresa_ABCDataSet1()
         Me.AgentesVendedorBindingSource = New System.Windows.Forms.BindingSource(Me.components)
         Me.Empresa_ABCDataSet = New Guía_Práctica_de_Laboratorio.Empresa_ABCDataSet()
         Me.AgentesVendedorTableAdapter = New Guía_Práctica_de_Laboratorio.Empresa_ABCDataSetTableAdapters.AgentesVendedorTableAdapter()
         Me.Button1 = New System.Windows.Forms.Button()
+        Me.AgentesVendedoresTableAdapter = New Guía_Práctica_de_Laboratorio.Empresa_ABCDataSet1TableAdapters.AgentesVendedoresTableAdapter()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.AgentesVendedoresBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.Empresa_ABCDataSet1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.AgentesVendedorBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Empresa_ABCDataSet, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -93,6 +98,16 @@ Partial Class Form1
         Me.ComisionDataGridViewTextBoxColumn.HeaderText = "comision"
         Me.ComisionDataGridViewTextBoxColumn.Name = "ComisionDataGridViewTextBoxColumn"
         '
+        'AgentesVendedoresBindingSource
+        '
+        Me.AgentesVendedoresBindingSource.DataMember = "AgentesVendedores"
+        Me.AgentesVendedoresBindingSource.DataSource = Me.Empresa_ABCDataSet1
+        '
+        'Empresa_ABCDataSet1
+        '
+        Me.Empresa_ABCDataSet1.DataSetName = "Empresa_ABCDataSet1"
+        Me.Empresa_ABCDataSet1.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema
+        '
         'AgentesVendedorBindingSource
         '
         Me.AgentesVendedorBindingSource.DataMember = "AgentesVendedor"
@@ -116,6 +131,10 @@ Partial Class Form1
         Me.Button1.Text = "Reporte de vendedor"
         Me.Button1.UseVisualStyleBackColor = True
         '
+        'AgentesVendedoresTableAdapter
+        '
+        Me.AgentesVendedoresTableAdapter.ClearBeforeFill = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -126,6 +145,8 @@ Partial Class Form1
         Me.Name = "Form1"
         Me.Text = "Form1"
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.AgentesVendedoresBindingSource, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.Empresa_ABCDataSet1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.AgentesVendedorBindingSource, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.Empresa_ABCDataSet, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
@@ -144,4 +165,7 @@ Partial Class Form1
     Friend WithEvents SalarioDataGridViewTextBoxColumn As DataGridViewTextBoxColumn
     Friend WithEvents ComisionDataGridViewTextBoxColumn As DataGridViewTextBoxColumn
     Friend WithEvents Button1 As Button
+    Friend WithEvents Empresa_ABCDataSet1 As Empresa_ABCDataSet1
+    Friend WithEvents AgentesVendedoresBindingSource As BindingSource
+    Friend WithEvents AgentesVendedoresTableAdapter As Empresa_ABCDataSet1TableAdapters.AgentesVendedoresTableAdapter
 End Class

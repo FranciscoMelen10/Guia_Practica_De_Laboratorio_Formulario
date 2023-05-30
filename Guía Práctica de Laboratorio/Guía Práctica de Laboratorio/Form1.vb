@@ -1,8 +1,7 @@
 ﻿Public Class Form1
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        'TODO: This line of code loads data into the 'Empresa_ABCDataSet.AgentesVendedor' table. You can move, or remove it, as needed.
-        Me.AgentesVendedorTableAdapter.Fill(Me.Empresa_ABCDataSet.AgentesVendedor)
-
+        'TODO: esta línea de código carga datos en la tabla 'Empresa_ABCDataSet1.AgentesVendedores' Puede moverla o quitarla según sea necesario.
+        Me.AgentesVendedoresTableAdapter.Fill(Me.Empresa_ABCDataSet1.AgentesVendedores)
 
     End Sub
 
