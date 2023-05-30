@@ -24,10 +24,10 @@ Partial Class Form2
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
         Dim ReportDataSource1 As Microsoft.Reporting.WinForms.ReportDataSource = New Microsoft.Reporting.WinForms.ReportDataSource()
-        Dim ReportDataSource2 As Microsoft.Reporting.WinForms.ReportDataSource = New Microsoft.Reporting.WinForms.ReportDataSource()
+        Me.AgentesVendedorBindingSource1 = New System.Windows.Forms.BindingSource(Me.components)
+        Me.Empresa_ABCDataSet = New Guía_Práctica_de_Laboratorio.Empresa_ABCDataSet()
         Me.AgentesVendedorBindingSource = New System.Windows.Forms.BindingSource(Me.components)
         Me.EmpresaABCDataSetBindingSource = New System.Windows.Forms.BindingSource(Me.components)
-        Me.Empresa_ABCDataSet = New Guía_Práctica_de_Laboratorio.Empresa_ABCDataSet()
         Me.VentasFebreroBindingSource = New System.Windows.Forms.BindingSource(Me.components)
         Me.ReportViewer1 = New Microsoft.Reporting.WinForms.ReportViewer()
         Me.AgentesVendedorTableAdapter = New Guía_Práctica_de_Laboratorio.Empresa_ABCDataSetTableAdapters.AgentesVendedorTableAdapter()
@@ -38,17 +38,29 @@ Partial Class Form2
         Me.AgentesVendedoresBindingSource = New System.Windows.Forms.BindingSource(Me.components)
         Me.AgentesVendedoresTableAdapter = New Guía_Práctica_de_Laboratorio.Empresa_ABCDataSet1TableAdapters.AgentesVendedoresTableAdapter()
         Me.VentasFebreroTableAdapter1 = New Guía_Práctica_de_Laboratorio.Empresa_ABCDataSet1TableAdapters.VentasFebreroTableAdapter()
-        Me.AgentesVendedorBindingSource1 = New System.Windows.Forms.BindingSource(Me.components)
+        Me.vista_ventasBindingSource = New System.Windows.Forms.BindingSource(Me.components)
+        Me.vista_ventasTableAdapter = New Guía_Práctica_de_Laboratorio.Empresa_ABCDataSet1TableAdapters.vista_ventasTableAdapter()
+        CType(Me.AgentesVendedorBindingSource1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.Empresa_ABCDataSet, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.AgentesVendedorBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.EmpresaABCDataSetBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.Empresa_ABCDataSet, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.VentasFebreroBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.VentasFebreroBindingSource1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Empresa_ABCDataSet11, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Empresa_ABCDataSet1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.AgentesVendedoresBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.AgentesVendedorBindingSource1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.vista_ventasBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
+        '
+        'AgentesVendedorBindingSource1
+        '
+        Me.AgentesVendedorBindingSource1.DataMember = "AgentesVendedor"
+        Me.AgentesVendedorBindingSource1.DataSource = Me.Empresa_ABCDataSet
+        '
+        'Empresa_ABCDataSet
+        '
+        Me.Empresa_ABCDataSet.DataSetName = "Empresa_ABCDataSet"
+        Me.Empresa_ABCDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema
         '
         'AgentesVendedorBindingSource
         '
@@ -60,11 +72,6 @@ Partial Class Form2
         Me.EmpresaABCDataSetBindingSource.DataSource = Me.Empresa_ABCDataSet
         Me.EmpresaABCDataSetBindingSource.Position = 0
         '
-        'Empresa_ABCDataSet
-        '
-        Me.Empresa_ABCDataSet.DataSetName = "Empresa_ABCDataSet"
-        Me.Empresa_ABCDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema
-        '
         'VentasFebreroBindingSource
         '
         Me.VentasFebreroBindingSource.DataMember = "VentasFebrero"
@@ -72,17 +79,15 @@ Partial Class Form2
         '
         'ReportViewer1
         '
+        Me.ReportViewer1.Dock = System.Windows.Forms.DockStyle.Fill
         ReportDataSource1.Name = "DataSet1"
-        ReportDataSource1.Value = Me.AgentesVendedorBindingSource1
-        ReportDataSource2.Name = "DataSet2"
-        ReportDataSource2.Value = Me.AgentesVendedorBindingSource1
+        ReportDataSource1.Value = Me.vista_ventasBindingSource
         Me.ReportViewer1.LocalReport.DataSources.Add(ReportDataSource1)
-        Me.ReportViewer1.LocalReport.DataSources.Add(ReportDataSource2)
         Me.ReportViewer1.LocalReport.ReportEmbeddedResource = "Guía_Práctica_de_Laboratorio.Report1.rdlc"
-        Me.ReportViewer1.Location = New System.Drawing.Point(-1, 1)
+        Me.ReportViewer1.Location = New System.Drawing.Point(0, 0)
         Me.ReportViewer1.Name = "ReportViewer1"
         Me.ReportViewer1.ServerReport.BearerToken = Nothing
-        Me.ReportViewer1.Size = New System.Drawing.Size(800, 387)
+        Me.ReportViewer1.Size = New System.Drawing.Size(800, 450)
         Me.ReportViewer1.TabIndex = 0
         '
         'AgentesVendedorTableAdapter
@@ -121,10 +126,14 @@ Partial Class Form2
         '
         Me.VentasFebreroTableAdapter1.ClearBeforeFill = True
         '
-        'AgentesVendedorBindingSource1
+        'vista_ventasBindingSource
         '
-        Me.AgentesVendedorBindingSource1.DataMember = "AgentesVendedor"
-        Me.AgentesVendedorBindingSource1.DataSource = Me.Empresa_ABCDataSet
+        Me.vista_ventasBindingSource.DataMember = "vista_ventas"
+        Me.vista_ventasBindingSource.DataSource = Me.Empresa_ABCDataSet1
+        '
+        'vista_ventasTableAdapter
+        '
+        Me.vista_ventasTableAdapter.ClearBeforeFill = True
         '
         'Form2
         '
@@ -134,15 +143,16 @@ Partial Class Form2
         Me.Controls.Add(Me.ReportViewer1)
         Me.Name = "Form2"
         Me.Text = "Form2"
+        CType(Me.AgentesVendedorBindingSource1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.Empresa_ABCDataSet, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.AgentesVendedorBindingSource, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.EmpresaABCDataSetBindingSource, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.Empresa_ABCDataSet, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.VentasFebreroBindingSource, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.VentasFebreroBindingSource1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.Empresa_ABCDataSet11, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.Empresa_ABCDataSet1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.AgentesVendedoresBindingSource, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.AgentesVendedorBindingSource1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.vista_ventasBindingSource, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
@@ -161,4 +171,6 @@ Partial Class Form2
     Friend WithEvents VentasFebreroBindingSource1 As BindingSource
     Friend WithEvents VentasFebreroTableAdapter1 As Empresa_ABCDataSet1TableAdapters.VentasFebreroTableAdapter
     Friend WithEvents AgentesVendedorBindingSource1 As BindingSource
+    Friend WithEvents vista_ventasBindingSource As BindingSource
+    Friend WithEvents vista_ventasTableAdapter As Empresa_ABCDataSet1TableAdapters.vista_ventasTableAdapter
 End Class

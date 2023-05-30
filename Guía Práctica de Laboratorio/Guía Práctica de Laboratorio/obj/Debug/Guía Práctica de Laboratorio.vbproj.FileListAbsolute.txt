@@ -160,3 +160,5 @@ D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Prác
 D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.exe
 D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.xml
 D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\Guía Práctica de Laboratorio.pdb
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\RdlCompile.cache
+D:\PROGRAMACION\Repositorios\GuIa_Practica_de_Laboratorio_Formulario\Guía Práctica de Laboratorio\Guía Práctica de Laboratorio\obj\Debug\RdlCompile.compiled
